@@ -1,2 +1,3 @@
 # DynamicSQLQuery
-Execute SQL Query from Entity to dynamic list
+C# Codes
+Execute SQL Query from Entity Framework to dynamic list
